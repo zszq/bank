@@ -1,0 +1,847 @@
+{
+	"data": [{
+			"date": "01-06-2024",
+			"flow": "CHECKOUT SAS",
+			"description": "0000000034O3\nFRA000113018",
+			"Amount": "+1000000.00"
+		},
+		{
+			"date": "01-06-2024",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "01-04-2024",
+			"flow": "CHECKOUT SAS",
+			"description": "000000007D5U\nFRA000145030",
+			"Amount": "+964547.27"
+		},
+		{
+			"date": "01-04-2024",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "01-04-2024",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-75.00"
+		},
+		{
+			"date": "01-04-2024",
+			"flow": "Chengdu Cooper\nHengan Technology Co.,\nLtd.",
+			"description": "OTC TRADE",
+			"Amount": "-233809.34"
+		},
+		{
+			"date": "01-03-2024",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "01-03-2024",
+			"flow": "CIRCLE INTERNET\nFINANCIAL INC",
+			"description": "ReferenceID:\nCIR5R6GYJS....",
+			"Amount": "-2000000.00"
+		},
+		{
+			"date": "01-02-2024",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "01-02-2024",
+			"flow": "CHECKOUT SAS",
+			"description": "000000007CK1\nFRA000140027",
+			"Amount": "+896863.30"
+		},
+		{
+			"date": "01-02-2024",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "01-02-2024",
+			"flow": "CHECKOUT SAS",
+			"description": "000000006BY1\nFRA000140026",
+			"Amount": "+534347.21"
+		},
+		{
+			"date": "01-06-2024",
+			"flow": "CHECKOUT SAS",
+			"description": "0000000034O3\nFRA000113018",
+			"Amount": "+1000000.00"
+		},
+		{
+			"date": "01-06-2024",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "01-04-2024",
+			"flow": "CHECKOUT SAS",
+			"description": "000000007D5U\nFRA000145030",
+			"Amount": "+964547.27"
+		},
+		{
+			"date": "01-04-2024",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "01-04-2024",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-75.00"
+		},
+		{
+			"date": "01-04-2024",
+			"flow": "Chengdu Cooper\nHengan Technology Co.,\nLtd.",
+			"description": "OTC TRADE",
+			"Amount": "-233809.34"
+		},
+		{
+			"date": "01-03-2024",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "01-03-2024",
+			"flow": "CIRCLE INTERNET\nFINANCIAL INC",
+			"description": "ReferenceID:\nCIR5R6GYJS....",
+			"Amount": "-2000000.00"
+		},
+		{
+			"date": "01-02-2024",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "01-02-2024",
+			"flow": "CHECKOUT SAS",
+			"description": "000000007CK1\nFRA000140027",
+			"Amount": "+896863.30"
+		},
+		{
+			"date": "01-02-2024",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "01-02-2024",
+			"flow": "CHECKOUT SAS",
+			"description": "000000006BY1\nFRA000140026",
+			"Amount": "+534347.21"
+		},
+		{
+			"date": "01-01-2024",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+
+		{
+			"date": "01-01-2024",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002FRJ\nFRA000097034",
+			"Amount": "+1028059.40"
+		},
+		{
+			"date": "01-01-2024",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-750.00"
+		},
+		{
+			"date": "12-31-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-75.00"
+		},
+		{
+			"date": "12-31-2023",
+			"flow": "Hylead Pte. Ltd.",
+			"description": "Invoice No.\nHYLEAD20231231",
+			"Amount": "-1290300.00"
+		},
+		{
+			"date": "12-29-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002F46\nFRA000123033",
+			"Amount": "+903547.01"
+		},
+		{
+			"date": "12-29-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "12-29-2023",
+			"flow": "AMBI Expansioner AG\u00b7Weiwei Zheng",
+			"description": "OTC TRADE",
+			"Amount": "-2985000.00"
+		},
+		{
+			"date": "12-29-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-5.00"
+		},
+		{
+			"date": "12-29-2023",
+			"flow": "Cooper Blazer Inc",
+			"description": "Loan agreement Partial\npayment",
+			"Amount": "-50000.00"
+		},
+		{
+			"date": "12-29-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "12-28-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "12-28-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000006DHJ\nFRA0000970E4",
+			"Amount": "+1036974.57"
+		},
+
+		{
+			"date": "12-28-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-75.00"
+		}, {
+			"date": "12-28-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "Chengdu Cooper\nHengan Technology Co.,\nLtd.",
+			"Amount": "-3478169.64"
+		},
+
+		{
+			"date": "12-27-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "12-27-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002EHO\nFRA000125032",
+			"Amount": "+763782.19 "
+		},
+
+
+		{
+			"date": "12-24-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002AOW\nFRA000083024",
+			"Amount": "+1400362.81"
+		},
+		{
+			"date": "12-24-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-45.00"
+		},
+		{
+			"date": "12-23-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000009DU1\nFRA000563245",
+			"Amount": "+1960000.61"
+		},
+		{
+			"date": "12-23-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+
+		{
+			"date": "12-22-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "12-22-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002JXA\nFRA000183212",
+			"Amount": "+1100056.93"
+		},
+		{
+			"date": "12-21-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-75.00"
+		},
+		{
+			"date": "12-21-2023",
+			"flow": "CAMBI Expansioner AG - \n BOCHONG WANG",
+			"description": "OTC TRADE",
+			"Amount": "-2000000.00"
+		},
+		{
+			"date": "12-20-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002DT9\nFRA000162009",
+			"Amount": "+2690000.09"
+		},
+		{
+			"date": "12-20-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "12-19-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "12-19-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000006SGV\nFFRA000183212 ",
+			"Amount": "+2583782.54"
+		},
+		{
+			"date": "12-19-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "/ROC/PAY\nUUWHDNH2KTF\n20231012 MMQFMPEC000207\n20231012 QMGFNP6500018610120638FT03 ",
+			"Amount": "+534347.21"
+		},
+		{
+			"date": "12-19-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+
+		{
+			"date": "12-19-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002GF2\nFRA000159037",
+			"Amount": "+975586.86"
+		},
+		{
+			"date": "12-18-2023",
+			"flow": "Plaid Financial Ltd.",
+			"description": "201-D886GM3763-2310",
+			"Amount": "-2433.31"
+		},
+
+		{
+			"date": "12-18-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-35.00"
+		},
+		{
+			"date": "12-18-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "12-18-2023",
+			"flow ": "CHECKOUT SAS ",
+			"description": "000000002FRJ\nFRA000097034",
+			"Amount": "+1028059.40"
+		},
+		{
+			"date": "12-18-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-5.00"
+		},
+		{
+			"date": "12-18-2023",
+			"flow": "AMBI Expansioner AG\u00b7Weiwei Zheng",
+			"description": "",
+			"Amount": "-2985000.00"
+		},
+
+		{
+			"date": "12-16-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "12-16-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002A2L\nFRA000196023",
+			"Amount": "+705993.76"
+		},
+		{
+			"date": "12-16-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002BY1\nFRA000140021",
+			"Amount": "+841101.31"
+		},
+		{
+			"date": "12-16-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+
+		{
+			"date": "12-15-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "12-15-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "0000000029GT\nFRA000093022",
+			"Amount": "+927085.65"
+		},
+		{
+			"date": "12-14-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "0000000027O3\nFRA000113018",
+			"Amount": "+534347.21"
+		},
+		{
+			"date": "12-14-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "12-11-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000006WSD\nFRA000569032",
+			"Amount": "+7751000.74"
+		},
+		{
+			"date": "12-11-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-35.00"
+		},
+		{
+			"date": "12-11-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "12-11-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002JXA\nFRA000163212",
+			"Amount": "+3100056.93"
+		},
+		{
+			"date": "12-10-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "12-10-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000007UD4\nFRA000154611",
+			"Amount": "+6500056.93"
+		},
+		{
+			"date": "12-10-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-35.00"
+		},
+		{
+			"date": "12-10-2023",
+			"flow": "CIRCLE INTERNET\nFINANCIAL INC ",
+			"description": "ReferenceID:\nCIR6J4GYDS...",
+			"Amount": "-2000000.00"
+		},
+		{
+			"date": "11-20-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-35.00"
+		},
+		{
+			"date": "11-20-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "0000000027O3\nFRA0001132391",
+			"Amount": "+7000678.13"
+		},
+		{
+			"date": "11-19-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000009DU1\nFRA000115708",
+			"Amount": "+4690000.09"
+		},
+		{
+			"date": "11-19-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "11-19-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "11-19-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002FRV\nFRA000142507",
+			"Amount": "+3583782.54"
+		},
+		{
+			"date": "11-18-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "11-18-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "00000000272F\nFRA000055017",
+			"Amount": "+534347.21"
+		},
+		{
+			"date": "11-17-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "11-17-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002GF2\nFRA000159037",
+			"Amount": "+975586.86"
+		},
+		{
+			"date": "11-17-2023",
+			"flow": "BCB PAYMENTS LTD",
+			"description": "",
+			"Amount": "-2433.31"
+		},
+		{
+			"date": "11-17-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-35.00"
+		},
+		{
+			"date": "11-14-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "11-14-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002FRJ\nFRA000097034",
+			"Amount": "+1028059.4"
+		},
+		{
+			"date": "11-14-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-5.00"
+		},
+		{
+			"date": "11-14-2023",
+			"flow": "AMBI Expansioner AG\u00b7Weiwei Zheng",
+			"description": "",
+			"Amount": "-2985000.00"
+		},
+		{
+			"date": "11-14-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "+35"
+		},
+		{
+			"date": "11-14-2023",
+			"flow": "BCB PAYMENTS LTD",
+			"description": "Returned item for\nPayment \u00b7 Cross Border \u00b7 Faster Payments",
+			"Amount": "+2459.12"
+		},
+		{
+			"date": "11-14-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": " - 35.00 "
+		},
+		{
+			"date": "11-14-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-2459.12"
+		},
+		{
+			"date": "11-14-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002F46\nFRA000123033",
+			"Amount": "+1003547.01"
+		},
+		{
+			"date": "11-13-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"deposit": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "11-13-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-35.00"
+		},
+		{
+			"date": "07-13-2023",
+			"flow": "CIRCLE INTERNET\nFINANCIAL INC",
+			"description": "ReferenceID:\nCIR2Z9GYSS...",
+			"Amount": "-5000000.00"
+		},
+		{
+			"date": "07-13-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "07-12-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002EHO\nFRA000125032",
+			"Amount": "+963782.19"
+		},
+		{
+			"date": "07-12-2023",
+			"flow": "Hylead Pte. Ltd.",
+			"description": "Invoice No.\nHYLEAD20230201",
+			"Amount": "-1290300.00"
+		},
+		{
+			"date": "07-12-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-75.00"
+		},
+		{
+			"date": "07-12-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-750.00"
+		},
+		{
+			"date": "06-31-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "06-31-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002DT9\nFRA000145031",
+			"Amount": "+3072631.89"
+		},
+		{
+			"date": "06-30-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002D5U\nFRA000145030",
+			"Amount": "+861101.31"
+		},
+		{
+			"date": "06-30-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "06-30-2023",
+			"flow": "PAYMENT INCOME",
+			"description": "TEST FUND FROM FV\nBANK EURLITA",
+			"Amount": "-100000.00"
+		},
+		{
+			"date": "06-30-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-200.00"
+		},
+		{
+			"date": "06-30-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-35.00"
+		},
+		{
+			"date": "06-30-2023",
+			"flow": "CIRCLE INTERNET\nFINANCIAL INC",
+			"description": "ReferenceID:\nCIR2Z9GYSS...",
+			"Amount": "-5000000.00"
+		},
+		{
+			"date": "06-27-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "06-27-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002CK7\nFRA000140027",
+			"Amount": "+896863.3"
+		},
+		{
+			"date": "06-27-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002BY1\nFRA000140026",
+			"Amount": "+705993.76"
+		},
+		{
+			"date": "06-27-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "06-25-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "06-25-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "",
+			"Amount": "+997663.62"
+		},
+		{
+			"date": "06-25-2023",
+			"flow": "Association of Certified\nAnti-Money Laundering\nSpercialists, LLC.",
+			"description": "",
+			"Amount": "-2655.95"
+		},
+		{
+			"date": "06-25-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-35.00"
+		},
+		{
+			"date": "06-24-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "06-24-2023",
+			"flow": "CHECKOUT",
+			"description": "000000002AOW\nFRA000083024",
+			"Amount": "+3031977.47"
+		},
+		{
+			"date": "06-23-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "000000002A2L\nFRA000196023",
+			"Amount": "+939119.52"
+		},
+		{
+			"date": "06-23-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "06-20-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "0000000029GT\nFRA000093020",
+			"Amount": "+927985.65"
+		},
+		{
+			"date": "06-20-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "06-19-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "0000000028VCFRA000210019",
+			"Amount": "+735637.68"
+		},
+		{
+			"date": "06-19-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "06-19-2023",
+			"flow": "AMBI Expansioner AG -\nWeiwei Zheng",
+			"description": "",
+			"Amount": "-3980000.00"
+		},
+		{
+			"date": "06-19-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-5.00"
+		},
+		{
+			"date": "06-18-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "0000000027O3\nFRA000113018",
+			"Amount": "+3,247,678,13"
+		},
+		{
+			"date": "06-18-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "06-18-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "06-18-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "0000000028AA\nFRA000115018",
+			" Amount": "+1669420.61"
+		},
+		{
+			"date": "06-17-2023",
+			"flow": "Fee Account (USD)",
+			"description": "",
+			"Amount": "-25.00"
+		},
+		{
+			"date": "06-17-2023",
+			"flow": "CHECKOUT SAS",
+			"description": "00000000272F\nFRA00055017",
+			"Amount": "+964547.27"
+		}
+	]
+}
