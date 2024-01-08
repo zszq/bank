@@ -7,7 +7,7 @@ const route = useRoute()
 
 const menus = [
   { icon: new URL('/src/assets/images/dashboard.png', import.meta.url).href, name: 'Dashboard', path: '/dashboard' },
-  { icon: new URL('/src/assets/images/banking.png', import.meta.url).href, name: 'Banking', path: '/banking' }
+  { icon: new URL('/src/assets/images/banking.png', import.meta.url).href, name: 'Banking', path: '/banking/self/account/BUS_USD_Account' }
 ]
 
 let activate = ref('')
@@ -18,11 +18,7 @@ watch(route, (newRoute) => {
 
 function navigation(path: string) {
   activate.value = path
-  if (path == '/dashboard') {
-    router.push('/dashboard')
-  } else {
-    router.push('/banking')
-  }
+  router.push(path)
 }
 </script>
 

@@ -1,31 +1,7 @@
 <script setup lang="ts">
 import { onMounted, ref } from 'vue'
 import { getColor, formatNumberWithCommas } from '@/utils/utils.js'
-// import deposit from '@/assets/images/deposit.svg'
-
-// const list = ref([
-//   { icon: deposit, text: 'Account (Usd)' },
-//   { icon: '', text: 'FVNet Payment' },
-//   { icon: '', text: 'Transfer' },
-//   { icon: '', text: 'Payment authorizations' }
-// ])
-
-// function getIcon(coinName: string) {
-//   return new URL(`/src/assets/images/chainIcon/${coinName}.svg`, import.meta.url).href
-// }
-
-// const tableData = [
-//   { date: '2023-04-16', flow: 'Fee Account(USD)', desc: '0000000045EF15....', amount: '$-25.00' },
-//   { date: '2023-04-17', flow: 'CHECKOUT ASA', desc: '0000000045EF15....', amount: '$+975,586.86' },
-//   { date: '2023-04-17', flow: 'BCB PAYMENTS LTD', desc: '', amount: '-2,433.31' },
-//   { date: '2023-04-17', flow: 'Fee Account(USD)', desc: '', amount: '-35.00' },
-//   { date: '2023-04-17', flow: 'Fee Account(USD)', desc: '0000000045ef15f....', amount: '-25.00' },
-//   { date: '2023-04-17', flow: 'CHECKOUT ASA', desc: '0000000045ef15f....', amount: '+1,028,059.40' },
-//   { date: '2023-04-17', flow: 'Fee Account(USD)', desc: '0000000045eGRR1....', amount: '-5.00' },
-//   { date: '2023-04-17', flow: 'Fee Account(USD)', desc: '', amount: '-2,985,000.00' },
-//   { date: '2023-04-17', flow: 'AMBI Expansioner AG....', desc: '0000000045ef15f....', amount: '-25.00' },
-//   { date: '2023-04-17', flow: 'Fee Account(USD)', desc: '0000000045ef15f....', amount: '-25.00' }
-// ]
+import { dashboard_balance } from "@/utils/config";
 
 const tableData = ref([])
 
@@ -92,7 +68,7 @@ function downloadFile() {
           <div class="deposit"><img src="@/assets/images/deposit.svg" alt="" />USDC Deposit Assress</div>
         </div>
         <div class="balance">
-          Balance <span :style="{ color: getColor(78545872.71), marginLeft: '50px' }">$ {{ formatNumberWithCommas('78545872.71') }}</span>
+          Balance <span :style="{ color: getColor(dashboard_balance), marginLeft: '50px' }">$ {{ formatNumberWithCommas('' + dashboard_balance) }}</span>
         </div>
       </div>
       <div class="table">

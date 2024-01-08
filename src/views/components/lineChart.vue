@@ -5,6 +5,7 @@ import { LineChart, type LineSeriesOption } from 'echarts/charts'
 import { UniversalTransition } from 'echarts/features'
 import { CanvasRenderer } from 'echarts/renderers'
 import { onMounted, ref } from 'vue'
+import { xAxis, yAxis } from "@/utils/config";
 
 echarts.use([GridComponent, TooltipComponent, LineChart, CanvasRenderer, UniversalTransition])
 
@@ -26,7 +27,7 @@ function drawChart() {
     },
     xAxis: {
       type: 'category',
-      data: ['Aug', 'Sept', 'Oct', 'Nov', 'Dec', 'Jan'],
+      data: xAxis,
       axisTick: {
         alignWithLabel: true
       }
@@ -43,7 +44,7 @@ function drawChart() {
     },
     series: [
       {
-        data: [35000000, 43000000, 56000000, 58000000, 70000000, 78545872.71],
+        data: yAxis,
         type: 'line',
         symbol: 'circle',
         symbolSize: 8,

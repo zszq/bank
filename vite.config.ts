@@ -22,7 +22,7 @@ export default defineConfig({
     }
   },
   server: {
-    host: '0.0.0.0',
-    port: 8888,
+    host: 'portal.fvbank.us',
+    port: 80,
   }
 })

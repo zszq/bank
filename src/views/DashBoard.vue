@@ -1,18 +1,13 @@
 <script setup lang="ts">
 import { onMounted, ref } from 'vue'
-import { getColor, formatNumberWithCommas } from '@/utils/utils.js'
 import LineChart from './components/lineChart.vue'
+import { getColor, formatNumberWithCommas } from '@/utils/utils.js'
+import { banking_balance } from "@/utils/config";
 
 const list = [
   { icon: new URL('/src/assets/images/transfer.svg', import.meta.url).href, name: 'FVNet Payment' },
   { icon: new URL('/src/assets/images/transfer.svg', import.meta.url).href, name: 'Transfer' }
 ]
-
-// const tableData = [
-//   { date: '07-18-2023', name: 'Fee Account(USD)', amount: '-25.00' },
-//   { date: '07-18-2023', name: 'CHECKOUT SAS', amount: '534347.21' },
-//   { date: '07-17-2023', name: 'Fee Account(USD)', amount: '-25.00' }
-// ]
 
 let tableData = ref([])
 
@@ -47,7 +42,7 @@ onMounted(() => {
       <div class="title">Account status</div>
       <div class="content">
         <div class="balance">
-          Balance <span :style="{ color: getColor(78545872.71), marginLeft: '15px' }">$ {{ formatNumberWithCommas('78545872.71') }}</span>
+          Balance <span :style="{ color: getColor(banking_balance), marginLeft: '15px' }">$ {{ formatNumberWithCommas('' + banking_balance) }}</span>
         </div>
         <LineChart style="width: 100%; height: 200px" />
         <div>
